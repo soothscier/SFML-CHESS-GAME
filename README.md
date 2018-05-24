@@ -3,6 +3,7 @@
 A two player chess game made in c++. 
 
 Steps to compile and run CHESS game on your ubuntu system:
+
 1~ First you need to install SFML in ubuntu. Open the terminal and write this command:
 	"sudo apt-get install libsfml-dev"
 
